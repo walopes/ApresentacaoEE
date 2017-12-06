@@ -1,15 +1,15 @@
 \select@language {brazil}
 \beamer@sectionintoc {1}{Introdu\IeC {\c c}\IeC {\~a}o}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{Agricultura de precis\IeC {\~a}o}{3}{0}{1}
-\beamer@subsectionintoc {1}{2}{GPS}{6}{0}{1}
-\beamer@sectionintoc {2}{Plano de est\IeC {\'a}gio}{8}{0}{2}
-\beamer@subsectionintoc {2}{1}{A Empresa}{8}{0}{2}
-\beamer@subsectionintoc {2}{2}{O Est\IeC {\'a}gio}{11}{0}{2}
-\beamer@sectionintoc {3}{Desenvolvimento e resultados}{18}{0}{3}
-\beamer@subsectionintoc {3}{1}{O Projeto}{18}{0}{3}
-\beamer@subsectionintoc {3}{2}{Estudo da tecnologia}{21}{0}{3}
-\beamer@subsectionintoc {3}{3}{Comparativo entre os m\IeC {\'o}dulos}{24}{0}{3}
-\beamer@subsectionintoc {3}{4}{Implementa\IeC {\c c}\IeC {\~a}o no microcontrolador}{27}{0}{3}
-\beamer@sectionintoc {4}{Oportunidades de desenvolvimento}{28}{0}{4}
-\beamer@sectionintoc {5}{Dificuldades encontradas}{29}{0}{5}
-\beamer@sectionintoc {6}{Conclus\IeC {\~a}o e sugest\IeC {\~o}es}{30}{0}{6}
+\beamer@subsectionintoc {1}{2}{GPS}{5}{0}{1}
+\beamer@sectionintoc {2}{Plano de est\IeC {\'a}gio}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{A Empresa}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{O Est\IeC {\'a}gio}{10}{0}{2}
+\beamer@sectionintoc {3}{Desenvolvimento e resultados}{17}{0}{3}
+\beamer@subsectionintoc {3}{1}{O Projeto}{17}{0}{3}
+\beamer@subsectionintoc {3}{2}{Estudo da tecnologia}{20}{0}{3}
+\beamer@subsectionintoc {3}{3}{Comparativo entre os m\IeC {\'o}dulos}{23}{0}{3}
+\beamer@subsectionintoc {3}{4}{Implementa\IeC {\c c}\IeC {\~a}o no microcontrolador}{26}{0}{3}
+\beamer@sectionintoc {4}{Oportunidades de desenvolvimento}{27}{0}{4}
+\beamer@sectionintoc {5}{Dificuldades encontradas}{28}{0}{5}
+\beamer@sectionintoc {6}{Conclus\IeC {\~a}o e sugest\IeC {\~o}es}{29}{0}{6}
