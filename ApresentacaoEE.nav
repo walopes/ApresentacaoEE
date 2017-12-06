@@ -6,29 +6,31 @@
 \headcommand {\beamer@sectionpages {1}{2}}
 \headcommand {\beamer@subsectionpages {1}{2}}
 \headcommand {\beamer@subsectionentry {0}{1}{1}{3}{Agricultura de precis\IeC {\~a}o}}\headcommand {\beamer@subsectionpages {3}{2}}
-\headcommand {\slideentry {1}{1}{1}{3/3}{Agricultura de precis\IeC {\~a}o}{0}}
-\headcommand {\beamer@framepages {3}{3}}
-\headcommand {\beamer@subsectionentry {0}{1}{2}{4}{GPS}}\headcommand {\beamer@subsectionpages {3}{3}}
-\headcommand {\slideentry {1}{2}{1}{4/4}{GPS}{0}}
-\headcommand {\beamer@framepages {4}{4}}
-\headcommand {\beamer@subsectionentry {0}{1}{3}{5}{Microcontrolador}}\headcommand {\beamer@subsectionpages {4}{4}}
-\headcommand {\slideentry {1}{3}{1}{5/5}{Microcontrolador}{0}}
+\headcommand {\slideentry {1}{1}{1}{3/4}{Agricultura de precis\IeC {\~a}o}{0}}
+\headcommand {\beamer@framepages {3}{4}}
+\headcommand {\slideentry {1}{1}{2}{5/5}{Agricultura de precis\IeC {\~a}o}{0}}
 \headcommand {\beamer@framepages {5}{5}}
-\headcommand {\sectionentry {2}{Plano de est\IeC {\'a}gio}{6}{Plano de est\IeC {\'a}gio}{0}}
-\headcommand {\beamer@sectionpages {3}{5}}
-\headcommand {\beamer@subsectionpages {5}{5}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{6}{A Empresa}}\headcommand {\beamer@subsectionpages {6}{5}}
-\headcommand {\slideentry {2}{1}{1}{6/8}{A Empresa}{0}}
-\headcommand {\beamer@framepages {6}{8}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{9}{O Est\IeC {\'a}gio}}\headcommand {\beamer@subsectionpages {6}{8}}
-\headcommand {\slideentry {2}{2}{1}{9/13}{O Est\IeC {\'a}gio}{0}}
-\headcommand {\beamer@framepages {9}{13}}
-\headcommand {\slideentry {2}{2}{2}{14/15}{O Est\IeC {\'a}gio}{0}}
-\headcommand {\beamer@framepages {14}{15}}
-\headcommand {\slideentry {2}{2}{3}{16/16}{O Est\IeC {\'a}gio}{0}}
-\headcommand {\beamer@framepages {16}{16}}
-\headcommand {\beamer@partpages {1}{16}}
-\headcommand {\beamer@subsectionpages {9}{16}}
-\headcommand {\beamer@sectionpages {6}{16}}
-\headcommand {\beamer@documentpages {16}}
-\headcommand {\def \inserttotalframenumber {9}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{6}{GPS}}\headcommand {\beamer@subsectionpages {3}{5}}
+\headcommand {\slideentry {1}{2}{1}{6/7}{GPS}{0}}
+\headcommand {\beamer@framepages {6}{7}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{8}{Microcontrolador}}\headcommand {\beamer@subsectionpages {6}{7}}
+\headcommand {\slideentry {1}{3}{1}{8/8}{Microcontrolador}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\sectionentry {2}{Plano de est\IeC {\'a}gio}{9}{Plano de est\IeC {\'a}gio}{0}}
+\headcommand {\beamer@sectionpages {3}{8}}
+\headcommand {\beamer@subsectionpages {8}{8}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{9}{A Empresa}}\headcommand {\beamer@subsectionpages {9}{8}}
+\headcommand {\slideentry {2}{1}{1}{9/11}{A Empresa}{0}}
+\headcommand {\beamer@framepages {9}{11}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{12}{O Est\IeC {\'a}gio}}\headcommand {\beamer@subsectionpages {9}{11}}
+\headcommand {\slideentry {2}{2}{1}{12/16}{O Est\IeC {\'a}gio}{0}}
+\headcommand {\beamer@framepages {12}{16}}
+\headcommand {\slideentry {2}{2}{2}{17/18}{O Est\IeC {\'a}gio}{0}}
+\headcommand {\beamer@framepages {17}{18}}
+\headcommand {\slideentry {2}{2}{3}{19/19}{O Est\IeC {\'a}gio}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\beamer@partpages {1}{19}}
+\headcommand {\beamer@subsectionpages {12}{19}}
+\headcommand {\beamer@sectionpages {9}{19}}
+\headcommand {\beamer@documentpages {19}}
+\headcommand {\def \inserttotalframenumber {10}}

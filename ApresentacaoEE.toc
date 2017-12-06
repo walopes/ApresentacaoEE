@@ -1,8 +1,8 @@
 \select@language {brazil}
 \beamer@sectionintoc {1}{Introdu\IeC {\c c}\IeC {\~a}o}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{Agricultura de precis\IeC {\~a}o}{3}{0}{1}
-\beamer@subsectionintoc {1}{2}{GPS}{4}{0}{1}
-\beamer@subsectionintoc {1}{3}{Microcontrolador}{5}{0}{1}
-\beamer@sectionintoc {2}{Plano de est\IeC {\'a}gio}{6}{0}{2}
-\beamer@subsectionintoc {2}{1}{A Empresa}{6}{0}{2}
-\beamer@subsectionintoc {2}{2}{O Est\IeC {\'a}gio}{9}{0}{2}
+\beamer@subsectionintoc {1}{2}{GPS}{6}{0}{1}
+\beamer@subsectionintoc {1}{3}{Microcontrolador}{8}{0}{1}
+\beamer@sectionintoc {2}{Plano de est\IeC {\'a}gio}{9}{0}{2}
+\beamer@subsectionintoc {2}{1}{A Empresa}{9}{0}{2}
+\beamer@subsectionintoc {2}{2}{O Est\IeC {\'a}gio}{12}{0}{2}
