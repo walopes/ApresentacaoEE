@@ -5,5 +5,8 @@
 \beamer@sectionintoc {2}{Plano de est\IeC {\'a}gio}{8}{0}{2}
 \beamer@subsectionintoc {2}{1}{A Empresa}{8}{0}{2}
 \beamer@subsectionintoc {2}{2}{O Est\IeC {\'a}gio}{11}{0}{2}
-\beamer@sectionintoc {3}{O Projeto}{18}{0}{3}
+\beamer@sectionintoc {3}{Desenvolvimento e resultados}{18}{0}{3}
 \beamer@subsectionintoc {3}{1}{O Projeto}{18}{0}{3}
+\beamer@subsectionintoc {3}{2}{Estudo da tecnologia}{21}{0}{3}
+\beamer@subsectionintoc {3}{3}{Comparativo entre os m\IeC {\'o}dulos}{24}{0}{3}
+\beamer@subsectionintoc {3}{4}{Implementa\IeC {\c c}\IeC {\~a}o no microcontrolador}{27}{0}{3}
